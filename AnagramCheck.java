@@ -1,4 +1,4 @@
-package arun;
+package problems;
 
 import java.util.Scanner;
 
