@@ -1,10 +1,8 @@
-package prep;
-
 import java.util.ArrayList;
 import java.util.Collections;
 
 /**
- * Created by dvasanth on 20/02/17.
+ * Print the path of the node from root
  */
 public class RootToNodePath {
 

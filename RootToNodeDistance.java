@@ -1,7 +1,5 @@
-package prep;
-
 /**
- * Created by dvasanth on 20/02/17.
+ * Find the distance of a node from root
  */
 public class RootToNodeDistance {
 
